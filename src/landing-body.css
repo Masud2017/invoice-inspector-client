@@ -1,0 +1,12 @@
+.boxShadow:hover {
+    box-shadow: 10px 15px 28px tan;
+}
+.boxShadow-static {
+    box-shadow: 10px 15px 28px tan;
+}
+.dotted-border {
+    border-bottom:7px dotted red;
+    margin-left:29%;
+    margin-right:29%;
+    text-align:center;
+}
